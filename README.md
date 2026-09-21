@@ -1,4 +1,4 @@
-# 🚀 Professional Admin Dashboard (React & Next.js)
+# 🚀 Professional Admin Dashboard (React & Next.js) 
 
 A responsive and modern admin dashboard developed using cutting-edge frontend technologies to fulfill the technical assessment requirements.
 
