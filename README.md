@@ -33,15 +33,15 @@ Follow these steps to run the project locally on your machine:
    git clone [https://github.com/mo-eldahshoury/Admin-Dashboard.git](https://github.com/mo-eldahshoury/Admin-Dashboard.git)
 Navigate to the project directory:
 
-Bash
+   ```bash
 cd Admin-Dashboard
 Install dependencies:
 
-Bash
+   ```bash
 npm install
 Run the development server:
 
-Bash
+   ```bash
 npm run dev
 Open http://localhost:3000 in your browser to view the application.
 
@@ -50,14 +50,17 @@ To run the application inside a container:
 
 Build the Docker image:
 
-Bash
+   ```bash
+
 docker build -t admin-dashboard .
 Run the container:
 
-Bash
+   ```bash
 docker run -p 3000:3000 admin-dashboard
 Alternatively, using Docker Compose:
 
-Bash
+   ```bash
 docker-compose up
+
+
 Developed by Mohamed Abdelrahman
